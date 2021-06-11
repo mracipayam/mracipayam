@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mracipayam" target="blank"><img src="https://img.shields.io/twitter/follow/mracipayam?logo=twitter&style=for-the-badge" alt="mracipayam" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, PIC programming , Arm Programming**
+- 🌱 I’m currently learning **Flutter, PIC programming , Arm Programming , Artificial Intelligence**
 
 - 💬 Ask me about **game development, mobile app development**
 
