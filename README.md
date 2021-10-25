@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mracipayam" target="blank"><img src="https://img.shields.io/twitter/follow/mracipayam?logo=twitter&style=for-the-badge" alt="mracipayam" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, PIC programming , Arm Programming , Artificial Intelligence**
+- 🌱 I’m currently learning **Flutter , Nodejs , PIC programming , Arm Programming**
 
-- 💬 Ask me about **game development, mobile app development**
+- 💬 Ask me about **game development, mobile app development , backend development**
 
 - 📫 How to reach me **mracipayam@gmail.com**
 
