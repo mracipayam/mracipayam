@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Han</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">A Game Developer</h3>
 
 
 
